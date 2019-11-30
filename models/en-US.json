@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "python conference",
+            "invocationName": "python international",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
