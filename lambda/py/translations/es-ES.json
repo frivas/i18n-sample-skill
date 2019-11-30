@@ -1,0 +1,8 @@
+{
+    "WELCOME_MESSAGE": "Te damos la bienvenida, puedes decir Hola o Ayuda, ¿qué deseas hacer?",
+    "HELLO_MSG": "Hola!",
+    "HELP_MSG": "Puede saludarme, ¿en que te puedo ayudar?",
+    "GOODBYE_MSG": "Hasta Luego!",
+    "REFLECTOR_MSG": "Acabas de iniciar ${intent}",
+    "ERROR": "Perdona, no te he entendido, intentalo de nuevo por favor."
+}
